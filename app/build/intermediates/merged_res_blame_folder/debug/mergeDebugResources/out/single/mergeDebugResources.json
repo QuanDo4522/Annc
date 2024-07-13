@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_comment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_fragment_forgot_password.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_add.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_post_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_post_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_notification_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\notification_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_comment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_text_box.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\text_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_heart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_chat_user_items.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/chat_user_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_chat_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\chat_items.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_fragment_home.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_image_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\image_items.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_fragment_search.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_background.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_back2.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\back2.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_home_fill.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_home_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_right_chat.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\right_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_comment_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\comment_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_chat_users.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_chat_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_view_story.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_view_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_user_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\user_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_forgot_password.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_loading_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_profile_image_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\profile_image_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_stories_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\stories_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_comment_items.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/comment_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_left_chat.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\left_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_heart_check.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\heart_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_replacer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_replacer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_send_white.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_send_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_heart_red.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_heart_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_circle.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_image_items.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/image_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_sign_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_sign_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_create_account.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_create_account.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_fragment_add.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_search_box.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\search_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_home_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\home_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_activity_main.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_chat_user_items.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\chat_user_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_story_add.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_story_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_heart_fill.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_heart_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-debug-75:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.example.friendify.app-main-77:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_loading_dialog.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_fragment_notification.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.friendify.app-debug-75:/layout_home_items.xml.flat",
+        "source": "com.example.friendify.app-main-77:/layout/home_items.xml"
+    }
+]

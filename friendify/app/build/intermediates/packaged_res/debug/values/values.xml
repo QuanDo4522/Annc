@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#a641fe</color>
+    <color name="colorGreen">#a641fe</color>
+    <color name="colorGreenLight">#00952E</color>
+    <color name="colorGreenMid">#00842E</color>
+    <color name="colorGreyDark">#7B7B7B</color>
+    <color name="colorGreyLight">#E6E6E6</color>
+    <color name="colorLightBlue">#FAFAFC</color>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Enos</string>
+    <string name="default_web_client_id">463133142164-ljonvmeslo7t686413r5vg2gt4dric9d.apps.googleusercontent.com</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="gcm_defaultSenderId" translatable="false">871389225985</string>
+    <string name="google_api_key" translatable="false">AIzaSyBp0HR38pKX0ZLnEU4-n5c7JkZkQDbh_t8</string>
+    <string name="google_app_id" translatable="false">1:871389225985:android:7d7128fbf4e9bdb18e8c00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBp0HR38pKX0ZLnEU4-n5c7JkZkQDbh_t8</string>
+    <string name="google_storage_bucket" translatable="false">enos-c3dfb.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post">Post</string>
+    <string name="project_id" translatable="false">enos-c3dfb</string>
+    <string name="title_activity_fragment_replacer">FragmentReplacerActivity</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="Base.Theme.Enos" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Enos" parent="Base.Theme.Enos"/>
+</resources>

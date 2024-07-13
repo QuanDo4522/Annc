@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">871389225985</string>
+    <string name="google_api_key" translatable="false">AIzaSyBp0HR38pKX0ZLnEU4-n5c7JkZkQDbh_t8</string>
+    <string name="google_app_id" translatable="false">1:871389225985:android:7d7128fbf4e9bdb18e8c00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBp0HR38pKX0ZLnEU4-n5c7JkZkQDbh_t8</string>
+    <string name="google_storage_bucket" translatable="false">enos-c3dfb.appspot.com</string>
+    <string name="project_id" translatable="false">enos-c3dfb</string>
+</resources>

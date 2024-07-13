@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_search.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "com.example.enos.app-merged_res-5:/layout_fragment_home.xml.flat",
+        "source": "com.example.enos.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_login.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_forgot_password.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_launcher.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_dialog_bg.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_search.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_home_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\home_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_next.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_menu.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_heart.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_heart.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_home.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_comment.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_comment.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_create_account.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_create_account.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_home.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_share.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_comment.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_comment.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_heart_fill.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_heart_fill.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_sign_out.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_sign_out.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_btn_bg.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_heart_check.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\heart_check.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_send.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_comment_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\comment_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_back.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_heart_red.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_heart_red.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_right_chat.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\right_chat.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_chat_users.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_chat_users.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_post_view.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_post_view.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_left_chat.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\left_chat.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_send_white.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_send_white.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_profile.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_circle.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_circle.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_stories_layout.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\stories_layout.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_add.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_text_box.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\text_box.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_chat_user_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\chat_user_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_chat_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\chat_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_replacer.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_replacer.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_image_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\image_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_profile_image_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\profile_image_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_fragment_notification.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_chat.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_add.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_loading_dialog.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_background.png.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_background.png"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_search_box.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\search_box.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_view_story.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_view_story.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_story_add.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_story_add.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_user_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\user_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_home_fill.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_home_fill.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_notification_items.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\notification_items.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\layout_activity_splash.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_edit.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\daemon\\8.0\\com.example.enos.app-merged_res-5:\\drawable_ic_person.xml.flat",
+        "source": "D:\\daemon\\8.0\\com.example.enos.app-main-7:\\drawable\\ic_person.xml"
+    }
+]

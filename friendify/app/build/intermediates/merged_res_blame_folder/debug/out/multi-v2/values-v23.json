@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.enos.app-mergeDebugResources-3:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "D:\\Enos\\Enos\\app\\src\\main\\res\\values-v23\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "517"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "470"
+                    }
+                },
+                {
+                    "source": "D:\\caches\\transforms-3\\7342e3a82312b557585d4b5c34f34c32\\transformed\\material-1.10.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,9,13,16,21,25,28,31,34,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,413,574,784,1104,1341,1548,1755,1958,2290,2492,2757",
+                        "endLines": "4,8,12,15,20,24,27,30,33,38,41,45,49",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,408,569,779,1099,1336,1543,1750,1953,2285,2487,2752,3025"
+                    },
+                    "to": {
+                        "startLines": "62,65,69,73,76,81,85,88,91,94,99,102,106",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3802,4018,4160,4321,4531,4851,5088,5295,5502,5705,6037,6239,6504",
+                        "endLines": "64,68,72,75,80,84,87,90,93,98,101,105,109",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "4013,4155,4316,4526,4846,5083,5290,5497,5700,6032,6234,6499,6772"
+                    }
+                },
+                {
+                    "source": "D:\\caches\\transforms-3\\76c6138581c08c9ff1da6b4df366c400\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,29,43,44,45,48,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "475,610,745,820,907,1645,2395,2514,2641,2863,3087,3202,3309,3422",
+                        "endLines": "11,12,13,14,28,42,43,44,47,51,52,53,54,58",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "605,740,815,902,1640,2390,2509,2636,2858,3082,3197,3304,3417,3647"
+                    }
+                },
+                {
+                    "source": "D:\\caches\\transforms-3\\587332dba835a4d541dadd835e2dfbbb\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "59",
+                        "startColumns": "4",
+                        "startOffsets": "3652",
+                        "endLines": "61",
+                        "endColumns": "12",
+                        "endOffsets": "3797"
+                    }
+                }
+            ]
+        }
+    ]
+}

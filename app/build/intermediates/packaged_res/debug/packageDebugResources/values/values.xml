@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="bluemenu">#0F72FF</color>
+    <color name="colorAccent">#0F72FF</color>
+    <color name="colorBlue">#0099FF</color>
+    <color name="colorGreen">#0F72FF</color>
+    <color name="colorGreenLight">#00952E</color>
+    <color name="colorGreenMid">#00842E</color>
+    <color name="colorGreyDark">#7B7B7B</color>
+    <color name="colorGreyLight">#E6E6E6</color>
+    <color name="colorLightBlue">#FAFAFC</color>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Friendify</string>
+    <string name="default_web_client_id" translatable="false">197241586178-tmustqku394dv0i7hdcvvbbu2772qi7r.apps.googleusercontent.com</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="gcm_defaultSenderId" translatable="false">197241586178</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLIl6tubMrLBVPXlQuO3E3TXjV3-GAw1g</string>
+    <string name="google_app_id" translatable="false">1:197241586178:android:f2d82a464c30f98c501d1b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLIl6tubMrLBVPXlQuO3E3TXjV3-GAw1g</string>
+    <string name="google_storage_bucket" translatable="false">enoz-1f065.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post">Post</string>
+    <string name="project_id" translatable="false">enoz-1f065</string>
+    <string name="title_activity_fragment_replacer">FragmentReplacerActivity</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="Base.Theme.Enos" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Enos" parent="Base.Theme.Enos"/>
+</resources>
